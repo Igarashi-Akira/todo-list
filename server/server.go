@@ -2,7 +2,6 @@ package server
 
 import (
     "github.com/gin-gonic/gin"
-
     "github.com/Igarashi-Akira/todo-list/controller"
 )
 
